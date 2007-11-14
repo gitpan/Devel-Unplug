@@ -9,13 +9,13 @@ Devel::Unplug - Simulate the non-availability of modules
 
 =head1 VERSION
 
-This document describes Devel::Unplug version 0.02
+This document describes Devel::Unplug version 0.03
 
 =cut
 
 use vars qw($VERSION @ISA);
 
-$VERSION = '0.02';
+$VERSION = '0.03';
 
 =head1 SYNOPSIS
 
