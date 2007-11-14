@@ -1,12 +1,12 @@
 --- #YAML:1.0
 name:                Devel-Unplug
-version:             0.01
+version:             0.02
 abstract:            Simulate the non-availability of modules
 license:             perl
 generated_by:        ExtUtils::MakeMaker version 6.36_01
 distribution_type:   module
 requires:     
-    Devel::TraceLoad:              1.0.1
+    Devel::TraceLoad::Hook:        1.0.1
     File::Spec:                    0
     IPC::Run:                      0.80
     Test::More:                    0
